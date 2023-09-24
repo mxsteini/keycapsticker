@@ -1,0 +1,344 @@
+[
+  {
+    "backcolor": "#ffffff",
+    "name": "Kyria mxsteini 2",
+    "author": "mxsteini",
+    "notes": "blau: 3465a4\nrot: 840808\n",
+    "switchMount": "alps",
+    "switchBrand": "alps",
+    "switchType": "SKBL/SKBM",
+    "plate": true,
+    "pcb": true
+  },
+  [
+    {
+      "y": 0.25,
+      "x": 3,
+      "t": "#000000\n\n#3465a4\n#840808",
+      "sb": "matias",
+      "st": "KS102Q"
+    },
+    "e\n\nF8\n<i class='fa fa-folder-open-o'></i>",
+    {
+      "x": 9,
+      "t": "#000000\n#0fab59\n#3465a4\n#840808"
+    },
+    "i\n<i class='fa fa-print'></i>\n8\n("
+  ],
+  [
+    {
+      "y": -0.75,
+      "x": 2,
+      "t": "#000000\n\n#3465a4\n#840808"
+    },
+    "w\n\nF7\n<i class='fa fa-close'></i>",
+    {
+      "x": 1
+    },
+    "r\n\nF9\n<",
+    {
+      "x": 7
+    },
+    "u\n\n7\n/",
+    {
+      "x": 1
+    },
+    "o\n\n9\n)"
+  ],
+  [
+    {
+      "y": -0.875,
+      "x": 5
+    },
+    "t\n\nF10\n>",
+    {
+      "x": 5,
+      "t": "#000000\n\n\n#840808"
+    },
+    "z\n\n\n@"
+  ],
+  [
+    {
+      "y": -0.625,
+      "t": "#000000\n#0fab59"
+    },
+    "ESC\n<i class='kb kb-Multimedia-Volume-Down-1'></i>",
+    "q\n<i class='kb kb-Multimedia-Volume-Up-2'></i>",
+    {
+      "x": 13,
+      "t": "#000000"
+    },
+    "p",
+    {
+      "t": "#000000\n\n#3465a4"
+    },
+    "ü\n\n~\n^"
+  ],
+  [
+    {
+      "y": -0.75,
+      "x": 3,
+      "t": "#000000\n#0fab59\n#3465a4\n#840808"
+    },
+    "d\n<i class='fa fa-angle-up'></i>\nF5\n\\",
+    {
+      "x": 9
+    },
+    "k\n<i class='fa fa-angle-up'></i>\n5\n%"
+  ],
+  [
+    {
+      "y": -0.75,
+      "x": 2
+    },
+    "s\n<i class='fa fa-angle-double-up'></i>\nF4\n|",
+    {
+      "x": 1,
+      "n": true
+    },
+    "f\n<i class='fa fa-angle-double-down'></i>\nF6\n{",
+    {
+      "x": 7,
+      "n": true
+    },
+    "j\n<i class='fa fa-angle-double-up'></i>\n4\n$",
+    {
+      "x": 1
+    },
+    "l\n<i class='fa fa-angle-double-down'></i>\n6\n&"
+  ],
+  [
+    {
+      "y": -0.875,
+      "x": 5,
+      "t": "#000000\n\n#3465a4\n#840808"
+    },
+    "g\n\nF11\n}",
+    {
+      "x": 5,
+      "t": "#000000\n#0fab59"
+    },
+    "h\n<i class='fa fa-home'></i>\n\n\\"
+  ],
+  [
+    {
+      "y": -0.625,
+      "t": "#000000\n\n#3465a4"
+    },
+    "<i class='kb kb-logo-linux-tux'></i>\n\nAlt",
+    {
+      "t": "#000000",
+      "sm": "alps"
+    },
+    "a",
+    {
+      "x": 13,
+      "t": "#000000\n#0fab59\n#3465a4\n#840808"
+    },
+    "ö\n<i class='fa fa-hand-stop-o'></i>\nß\n?",
+    {
+      "t": "#000000\n\n#3465a4"
+    },
+    "ä\n\nAlt"
+  ],
+  [
+    {
+      "y": -0.75,
+      "x": 3,
+      "t": "#000000\n#0fab59\n#3465a4\n#840808"
+    },
+    "c\n<i class='fa fa-angle-down'></i>\nF2\n<i class='fa fa-terminal'></i>",
+    {
+      "x": 9
+    },
+    ";\n<i class='fa fa-angle-down'></i>\n2\n\"\n\n\n,"
+  ],
+  [
+    {
+      "y": -0.75,
+      "x": 2,
+      "fa": [
+        0,
+        0,
+        0,
+        5
+      ]
+    },
+    "x\n<i class='fa fa-angle-left'></i>\nF1\n<i class='mss mss-Unicode-Page-Down-5'></i>",
+    {
+      "x": 1,
+      "f": 3
+    },
+    "v\n<i class='fa fa-angle-right'></i>\nF3\n[",
+    {
+      "x": 7,
+      "f": 3
+    },
+    "m\n<i class='fa fa-angle-left'></i>\n1\n!",
+    {
+      "x": 1,
+      "f": 3
+    },
+    ":\n<i class='fa fa-angle-right'></i>\n3\n§\n\n\n."
+  ],
+  [
+    {
+      "y": -0.875,
+      "x": 5,
+      "t": "#000000\n\n#3465a4\n#840808",
+      "f": 3
+    },
+    "b\n\nF13\n]",
+    {
+      "x": 5,
+      "f": 3
+    },
+    "n\n\n0\n="
+  ],
+  [
+    {
+      "y": -0.625,
+      "t": "#000000",
+      "a": 7
+    },
+    "Strg",
+    {
+      "t": "#000000\n\n#3465a4",
+      "a": 4
+    },
+    "y\n\n<i class='fa fa-arrow-up'></i>",
+    {
+      "x": 13
+    },
+    "-\n\n<i class='fa fa-arrow-up'></i>\n\n\n\n-",
+    {
+      "t": "#000000"
+    },
+    "/\n\n\n\n\n\n\n\n\nStrg"
+  ],
+  [
+    {
+      "y": -0.5,
+      "x": 2.5,
+      "t": "#0fab59",
+      "a": 7,
+      "fa": [
+        8
+      ]
+    },
+    "<i class='fa fa-gear'></i>",
+    {
+      "x": 10
+    },
+    "<i class='fa fa-gear'></i>"
+  ],
+  [
+    {
+      "rx": 4,
+      "ry": 8.175,
+      "y": -4.675000000000001,
+      "x": -0.5,
+      "t": "#840808"
+    },
+    "<i class='fa fa-gear'></i>"
+  ],
+  [
+    {
+      "rx": 13,
+      "y": -4.675000000000001,
+      "x": -0.5
+    },
+    "<i class='fa fa-gear'></i>"
+  ],
+  [
+    {
+      "r": 15,
+      "rx": 4,
+      "y": -4.675000000000001,
+      "x": -0.5,
+      "t": "#3465a4"
+    },
+    "<i class='fa fa-gear'></i>"
+  ],
+  [
+    {
+      "r": 30,
+      "y": -2,
+      "x": -0.5,
+      "t": "#000000"
+    },
+    ""
+  ],
+  [
+    {
+      "x": -0.5,
+      "f": 3
+    },
+    "<i class='fa fa-arrow-up'></i>"
+  ],
+  [
+    {
+      "r": 45,
+      "y": -2,
+      "x": -0.5,
+      "fa": [
+        7
+      ]
+    },
+    "<i class='kb kb-Return-2'></i>"
+  ],
+  [
+    {
+      "x": -0.5
+    },
+    "<i class='kb kb-Tab-1'></i>"
+  ],
+  [
+    {
+      "r": -45,
+      "rx": 13,
+      "y": -5.675000000000001,
+      "x": -0.5,
+      "fa": [
+        2
+      ]
+    },
+    "ESC"
+  ],
+  [
+    {
+      "x": -0.5,
+      "fa": [
+        7
+      ]
+    },
+    "<i class='kb kb-Unicode-BackSpace-DeleteLeft-Small'></i>"
+  ],
+  [
+    {
+      "r": -30,
+      "y": -2,
+      "x": -0.5
+    },
+    ""
+  ],
+  [
+    {
+      "x": -0.5,
+      "f": 3
+    },
+    "<i class='fa fa-arrow-up'></i>"
+  ],
+  [
+    {
+      "r": -15,
+      "y": -1,
+      "x": -0.5,
+      "t": "#3465a4",
+      "fa": [
+        8
+      ]
+    },
+    "<i class='fa fa-gear'></i>"
+  ]
+]

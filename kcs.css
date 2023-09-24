@@ -1,0 +1,106 @@
+body {
+    font-size: 10pt;
+
+}
+
+.keys {
+    margin: 2cm;
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    gap: 5mm;
+    justify-content: space-around;
+}
+
+.key {
+    width: 12mm;
+    height: 12mm;
+    position: relative;
+    display: inline-block;
+}
+
+.key:after,
+.key:before {
+    content: '';
+    display: inline-block;
+    width: 3mm;
+    height: 3mm;
+    border-width: 1pt;
+    border-style: solid;
+    position: absolute;
+}
+
+.textsize-1 {font-size: 8pt}
+.textsize-2 {font-size: 9pt}
+.textsize-3 {font-size: 10pt}
+.textsize-4 {font-size: 11pt}
+.textsize-5 {font-size: 12pt}
+.textsize-6 {font-size: 13pt}
+.textsize-7 {font-size: 14pt}
+.textsize-8 {font-size: 16pt}
+
+.key:before {
+    top: -1mm;
+    left: -1mm;
+    border-color: black transparent transparent black;
+}
+
+.key:after {
+    bottom: -1mm;
+    right: -1mm;
+    border-color: transparent black black transparent;
+}
+
+.layer {
+    display: flex;
+    position: absolute;
+    top: 1mm;
+    left: 1mm;
+    width: 10mm;
+    height: 10mm;
+}
+
+.layer-0 {
+    justify-content: flex-start;
+    align-items: flex-start;
+}
+
+.layer-1 {
+    justify-content: center;
+    align-items: flex-start;
+}
+
+.layer-2 {
+    justify-content: flex-end;
+    align-items: flex-start;
+}
+
+.layer-3 {
+    justify-content: flex-start;
+    align-items: center;
+}
+
+.layer-4 {
+    justify-content: center;
+    align-items: center;
+}
+
+.layer-5 {
+    justify-content: flex-end;
+    align-items: center;
+}
+
+.layer-6 {
+    justify-content: flex-start;
+    align-items: flex-end;
+}
+
+.layer-7 {
+    justify-content: center;
+    align-items: flex-end;
+}
+
+.layer-8 {
+    justify-content: flex-end;
+    align-items: flex-end;
+}

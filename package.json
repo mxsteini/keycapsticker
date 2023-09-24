@@ -1,0 +1,15 @@
+{
+  "name": "json-to-html-converter",
+  "version": "1.0.0",
+  "description": "A Node.js program to convert JSON data to HTML",
+  "main": "your_script_name.js",
+  "scripts": {
+    "start": "node your_script_name.js"
+  },
+  "author": "Ihr Name",
+  "license": "MIT",
+  "dependencies": {
+    "@ijprest/kle-serial": "^0.15.1",
+    "readline": "^1.3.0"
+  }
+}
